@@ -1,4 +1,4 @@
-<h1 align="center"> primeiro projeto </h1>
+<h1 align="center"> projeto </h1>
 
 <p align="center">
 primeiro projeto dedicado ao estudo
